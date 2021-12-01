@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my Baby Daddy!" />
+        <Header title="Record Today at Baby Daddy Records!" /><br><br><br><br>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Call +254 728 479 523 
         </p>
       </main>
 
